@@ -13,7 +13,7 @@
 以下，为手动验证的步骤演示，基于Kovan，演示中的合约地址为
 
 - DET: `0x6ffF60A882CE1Cd793dC14261Eec0f0d6A470E21`
-- OpenTask: `0x51fC15CA47034bDF62F6e0fd0E37AB389832994C`
+- OpenTask: `0xA3434f0ABAC66f46ABCf2E6c47488C00aA1980Cb`
 
 ## 1. Approve
 
